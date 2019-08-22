@@ -34,3 +34,9 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+
+# don't upload big files
+data/HTA20_RMA.RData
+data/raw.data.RData
+data/models/*.RData
